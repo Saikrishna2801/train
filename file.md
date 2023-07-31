@@ -20,7 +20,3 @@ $ git remote add origin https://github.com/Saikrishna2801/train.git
 SAPABAP@DESKTOP-5BT497O MINGW64 ~/Gitpractice (main)
 $ git push -u origin main
 
-SAPABAP@DESKTOP-5BT497O MINGW64 ~/Gitpractice (main)
-$ ls
-file.md  train/
-
